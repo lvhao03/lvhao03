@@ -1,6 +1,8 @@
-<img align='center' width='100' height='100' src='https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif'>
+<div align='center'>
+<img align='center' width='150' height='150' src='https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif'>
 <h1 align='center'>Hi there, i'm Hao 👋</p>
 <p align='center'>A beginner learing how to code</p>
+  </div>
 <!-- Projects -->
 <h1 align='center'>My favorite projects</h1>
 <img width='400' src='https://user-images.githubusercontent.com/87526625/189522170-b802a469-f197-494f-ac1c-6926e12dfb5b.PNG'>
