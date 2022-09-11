@@ -5,6 +5,7 @@
 </div>
 <!-- Projects -->
 <h1 align='center'>My favorite projects</h1>
+<br>
 <img width='400' src='https://user-images.githubusercontent.com/87526625/189522170-b802a469-f197-494f-ac1c-6926e12dfb5b.PNG'>
 <!--
 **lvhao03/lvhao03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
