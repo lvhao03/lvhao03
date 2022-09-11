@@ -2,7 +2,7 @@
 <p align='center'>A beginner learing how to code</p>
 <!-- Projects -->
 <h1 align='center'>My favorite projects</h1>
-<img width='400' href='https://user-images.githubusercontent.com/87526625/189522170-b802a469-f197-494f-ac1c-6926e12dfb5b.PNG'>
+![Capture](https://user-images.githubusercontent.com/87526625/189522170-b802a469-f197-494f-ac1c-6926e12dfb5b.PNG)
 <!--
 **lvhao03/lvhao03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
