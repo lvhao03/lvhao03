@@ -1,5 +1,8 @@
-#  <p align='center'>Hi there, i'm Hao 👋</p>
+#<p align='center'>Hi there, i'm Hao 👋</p>
+<p align='center'>A beginner learing how to code</p>
 
+<!-- Projects -->
+#<h1 align='center'>Hi there, i'm Hao 👋</h1>
 <!--
 **lvhao03/lvhao03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
