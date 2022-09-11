@@ -1,4 +1,5 @@
 <h1 align='center'>Hi there, i'm Hao 👋</p>
+<img src='https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif'>
 <p align='center'>A beginner learing how to code</p>
 <!-- Projects -->
 <h1 align='center'>My favorite projects</h1>
