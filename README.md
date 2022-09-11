@@ -1,4 +1,4 @@
-<img width='300' height='300'src='https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif'>
+<img width='300' height='300' src='https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif'>
 <h1 align='center'>Hi there, i'm Hao 👋</p>
 <p align='center'>A beginner learing how to code</p>
 <!-- Projects -->
