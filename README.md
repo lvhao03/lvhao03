@@ -1,7 +1,8 @@
 <div align='center'>
   <img align='center' width='200' height='200' src='https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif'>
   <h1 align='center'>Hi there, i'm Hao 👋</h1>
-  <h2 align='center'>A beginner learning how to code</h2>
+  <h2 align='center'>A beginner learning how to code</h2>\
+  <br><br><br>
 </div>
 
 <!-- Projects -->
