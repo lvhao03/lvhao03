@@ -20,7 +20,7 @@
 <!-- Stats -->
 <div align='center'>
   <h1>My stats</h1>
-  <img src='https://github-readme-stats.vercel.app/api?username=hao03&show_icons=true)](https://github.com/anuraghazra/github-readme-stats'>
+  <img src='https://github-readme-stats.vercel.app/api?username=hao03&show_icons=true&theme=radical'>
 </div>
 <!--
 **lvhao03/lvhao03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
