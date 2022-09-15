@@ -10,7 +10,7 @@
 <br>
 
 <img width='400' src='https://user-images.githubusercontent.com/87526625/189522170-b802a469-f197-494f-ac1c-6926e12dfb5b.PNG'>
-<a src='https://github.com/lvhao03/Simple-weather-app'>
+<a href='https://github.com/lvhao03/Simple-weather-app'>
 <img src='https://github-readme-stats.vercel.app/api/pin/?username=lvhao03&repo=Simple-weather-app&theme=rose_pine'>
 </a>
 <!-- About me -->
