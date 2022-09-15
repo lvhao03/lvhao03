@@ -1,6 +1,6 @@
 <div align='center'>
   <img align='center' width='200' height='200' src='https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif'>
-  <h1 align='center'>Hi there, i'm Hao 👋</p>
+  <h1 align='center'>Hi there, i'm Hao 👋</h1>
   <p align='center'>A beginner learing how to code</p>
 </div>
 
