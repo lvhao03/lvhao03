@@ -7,7 +7,9 @@
 <!-- Projects -->
 <h1 align='center'>My favorite projects</h1>
 <br>
+<br>
 <img width='400' src='https://user-images.githubusercontent.com/87526625/189522170-b802a469-f197-494f-ac1c-6926e12dfb5b.PNG'>
+<img src='https://github-readme-stats.vercel.app/api/pin/?username=lvhao03&repo=Simple-weather-app&theme=rose_pine'>
 
 <!-- About me -->
 <div align='center'>
@@ -21,7 +23,6 @@
 <div align='center'>
   <h1>My stats</h1>
   <img src='https://github-readme-stats.vercel.app/api?username=hao03&show_icons=true&theme=rose_pine'>
-  <img src='https://github-readme-stats.vercel.app/api/pin/?username=lvhao03&repo=Simple-weather-app&theme=rose_pine'>
 </div>
 <!--
 **lvhao03/lvhao03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
