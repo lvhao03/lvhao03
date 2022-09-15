@@ -20,8 +20,8 @@
 <!-- Stats -->
 <div align='center'>
   <h1>My stats</h1>
-  <img src='https://github-readme-stats.vercel.app/api?username=hao03&show_icons=true&theme=blueberry'>
-  <img src='https://github-readme-stats.vercel.app/api/pin/?username=lvhao03&repo=Simple-weather-app'>
+  <img src='https://github-readme-stats.vercel.app/api?username=hao03&show_icons=true&theme=rose_pine'>
+  <img src='https://github-readme-stats.vercel.app/api/pin/?username=lvhao03&repo=Simple-weather-app&theme=rose_pine'>
 </div>
 <!--
 **lvhao03/lvhao03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
