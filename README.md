@@ -8,9 +8,10 @@
 <h1 align='center'>My favorite projects</h1>
 <br>
 <br>
+<a src='https://github.com/lvhao03/Simple-weather-app'>
 <img width='400' src='https://user-images.githubusercontent.com/87526625/189522170-b802a469-f197-494f-ac1c-6926e12dfb5b.PNG'>
 <img src='https://github-readme-stats.vercel.app/api/pin/?username=lvhao03&repo=Simple-weather-app&theme=rose_pine'>
-
+</a>
 <!-- About me -->
 <div align='center'>
   <h1>About me</h1>
