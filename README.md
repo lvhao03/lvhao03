@@ -14,6 +14,8 @@
     <img src='https://github-readme-stats.vercel.app/api/pin/?username=lvhao03&repo=Simple-weather-app&theme=rose_pine'>
   </a>
 </div>
+<img src="![Capture11](https://user-images.githubusercontent.com/87526625/211296210-1367ae8a-531e-4ced-a505-2002aeaf8d0f.PNG)
+">
 <!-- About me -->
 <div align='center'>
   <h1>About me</h1>
