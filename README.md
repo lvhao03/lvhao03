@@ -16,7 +16,7 @@
     </a>
   </div>
   <div width="50%">
-     <a href='https://github.com/lvhao03/Simple-weather-app'>
+     <a href='https://github.com/lvhao03/Fashion-store'>
         <img width='400' src="https://user-images.githubusercontent.com/87526625/211296210-1367ae8a-531e-4ced-a505-2002aeaf8d0f.PNG")<br>
         <img src='https://github-readme-stats.vercel.app/api/pin/?username=lvhao03&repo=Fashion-store&theme=rose_pine'>
       </a>
